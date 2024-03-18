@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sources\\embedded-system-2024\\PiDay05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65C11909-73E5-4157-B8B0-FBE3F8998D61}|PiDay05.vcxproj|C:\\Sources\\embedded-system-2024\\PiDay05\\q_test01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{65C11909-73E5-4157-B8B0-FBE3F8998D61}|PiDay05.vcxproj|solutionrelative:q_test01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C11909-73E5-4157-B8B0-FBE3F8998D61}|PiDay05.vcxproj|C:\\Sources\\embedded-system-2024\\PiDay05\\queue01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{65C11909-73E5-4157-B8B0-FBE3F8998D61}|PiDay05.vcxproj|solutionrelative:queue01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C11909-73E5-4157-B8B0-FBE3F8998D61}|PiDay05.vcxproj|C:\\Sources\\embedded-system-2024\\PiDay05\\stack02.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{65C11909-73E5-4157-B8B0-FBE3F8998D61}|PiDay05.vcxproj|solutionrelative:stack02.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C11909-73E5-4157-B8B0-FBE3F8998D61}|PiDay05.vcxproj|C:\\Sources\\embedded-system-2024\\PiDay05\\stack01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{65C11909-73E5-4157-B8B0-FBE3F8998D61}|PiDay05.vcxproj|solutionrelative:stack01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C11909-73E5-4157-B8B0-FBE3F8998D61}|PiDay05.vcxproj|C:\\Sources\\embedded-system-2024\\PiDay05\\list.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{65C11909-73E5-4157-B8B0-FBE3F8998D61}|PiDay05.vcxproj|solutionrelative:list.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "q_test01.c",
+              "DocumentMoniker": "C:\\Sources\\embedded-system-2024\\PiDay05\\q_test01.c",
+              "RelativeDocumentMoniker": "q_test01.c",
+              "ToolTip": "C:\\Sources\\embedded-system-2024\\PiDay05\\q_test01.c",
+              "RelativeToolTip": "q_test01.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-18T08:07:42.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "queue01.c",
+              "DocumentMoniker": "C:\\Sources\\embedded-system-2024\\PiDay05\\queue01.c",
+              "RelativeDocumentMoniker": "queue01.c",
+              "ToolTip": "C:\\Sources\\embedded-system-2024\\PiDay05\\queue01.c",
+              "RelativeToolTip": "queue01.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-18T07:21:37.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "stack02.c",
+              "DocumentMoniker": "C:\\Sources\\embedded-system-2024\\PiDay05\\stack02.c",
+              "RelativeDocumentMoniker": "stack02.c",
+              "ToolTip": "C:\\Sources\\embedded-system-2024\\PiDay05\\stack02.c",
+              "RelativeToolTip": "stack02.c",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAwDQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-18T02:33:43.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "stack01.c",
+              "DocumentMoniker": "C:\\Sources\\embedded-system-2024\\PiDay05\\stack01.c",
+              "RelativeDocumentMoniker": "stack01.c",
+              "ToolTip": "C:\\Sources\\embedded-system-2024\\PiDay05\\stack01.c",
+              "RelativeToolTip": "stack01.c",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAwEoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-18T01:40:01.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "list.c",
+              "DocumentMoniker": "C:\\Sources\\embedded-system-2024\\PiDay05\\list.c",
+              "RelativeDocumentMoniker": "list.c",
+              "ToolTip": "C:\\Sources\\embedded-system-2024\\PiDay05\\list.c",
+              "RelativeToolTip": "list.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-18T01:35:54.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
