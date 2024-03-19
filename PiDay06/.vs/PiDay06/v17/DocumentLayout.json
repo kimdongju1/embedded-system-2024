@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sources\\embedded-system-2024\\PiDay06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB75470-B89D-42B0-AA24-73DA5493CC0B}|PiDay06.vcxproj|C:\\Sources\\embedded-system-2024\\PiDay06\\queue02.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ABB75470-B89D-42B0-AA24-73DA5493CC0B}|PiDay06.vcxproj|solutionrelative:queue02.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB75470-B89D-42B0-AA24-73DA5493CC0B}|PiDay06.vcxproj|C:\\Sources\\embedded-system-2024\\PiDay06\\queue03.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ABB75470-B89D-42B0-AA24-73DA5493CC0B}|PiDay06.vcxproj|solutionrelative:queue03.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "queue03.c",
+              "DocumentMoniker": "C:\\Sources\\embedded-system-2024\\PiDay06\\queue03.c",
+              "RelativeDocumentMoniker": "queue03.c",
+              "ToolTip": "C:\\Sources\\embedded-system-2024\\PiDay06\\queue03.c",
+              "RelativeToolTip": "queue03.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-19T05:13:16.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "queue02.c",
+              "DocumentMoniker": "C:\\Sources\\embedded-system-2024\\PiDay06\\queue02.c",
+              "RelativeDocumentMoniker": "queue02.c",
+              "ToolTip": "C:\\Sources\\embedded-system-2024\\PiDay06\\queue02.c",
+              "RelativeToolTip": "queue02.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-19T00:18:06.266Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
