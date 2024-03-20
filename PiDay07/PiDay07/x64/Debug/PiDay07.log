@@ -1,0 +1,4 @@
+﻿  file01.c
+C:\Sources\embedded-system-2024\PiDay07\file01.c(15,2): warning C4013: 'frpintf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+file01.obj : error LNK2019: frpintfmain 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Sources\embedded-system-2024\PiDay07\x64\Debug\PiDay07.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
