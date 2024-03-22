@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Sources\\embedded-system-2024\\PiDay07\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{27C5334A-F90B-41E2-8C48-28AAA9FAF083}|PiDay07.vcxproj|C:\\Sources\\embedded-system-2024\\PiDay07\\file04.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{27C5334A-F90B-41E2-8C48-28AAA9FAF083}|PiDay07.vcxproj|solutionrelative:file04.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C5334A-F90B-41E2-8C48-28AAA9FAF083}|PiDay07.vcxproj|C:\\Sources\\embedded-system-2024\\PiDay07\\file02.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{27C5334A-F90B-41E2-8C48-28AAA9FAF083}|PiDay07.vcxproj|solutionrelative:file02.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C5334A-F90B-41E2-8C48-28AAA9FAF083}|PiDay07.vcxproj|C:\\Sources\\embedded-system-2024\\PiDay07\\file03.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{27C5334A-F90B-41E2-8C48-28AAA9FAF083}|PiDay07.vcxproj|solutionrelative:file03.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{27C5334A-F90B-41E2-8C48-28AAA9FAF083}|PiDay07.vcxproj|C:\\Sources\\embedded-system-2024\\PiDay07\\file01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{27C5334A-F90B-41E2-8C48-28AAA9FAF083}|PiDay07.vcxproj|solutionrelative:file01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -13,18 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{27C5334A-F90B-41E2-8C48-28AAA9FAF083}|PiDay07.vcxproj|C:\\Sources\\embedded-system-2024\\PiDay07\\low_read.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{27C5334A-F90B-41E2-8C48-28AAA9FAF083}|PiDay07.vcxproj|solutionrelative:low_read.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27C5334A-F90B-41E2-8C48-28AAA9FAF083}|PiDay07.vcxproj|C:\\Sources\\embedded-system-2024\\PiDay07\\file03.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{27C5334A-F90B-41E2-8C48-28AAA9FAF083}|PiDay07.vcxproj|solutionrelative:file03.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27C5334A-F90B-41E2-8C48-28AAA9FAF083}|PiDay07.vcxproj|C:\\Sources\\embedded-system-2024\\PiDay07\\file04.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{27C5334A-F90B-41E2-8C48-28AAA9FAF083}|PiDay07.vcxproj|solutionrelative:file04.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27C5334A-F90B-41E2-8C48-28AAA9FAF083}|PiDay07.vcxproj|C:\\Sources\\embedded-system-2024\\PiDay07\\file02.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{27C5334A-F90B-41E2-8C48-28AAA9FAF083}|PiDay07.vcxproj|solutionrelative:file02.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{27C5334A-F90B-41E2-8C48-28AAA9FAF083}|PiDay07.vcxproj|C:\\Sources\\embedded-system-2024\\PiDay07\\binarysearch.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -50,11 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "file04.c",
               "DocumentMoniker": "C:\\Sources\\embedded-system-2024\\PiDay07\\file04.c",
               "RelativeDocumentMoniker": "file04.c",
@@ -67,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "file03.c",
               "DocumentMoniker": "C:\\Sources\\embedded-system-2024\\PiDay07\\file03.c",
               "RelativeDocumentMoniker": "file03.c",
@@ -80,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "file01.c",
               "DocumentMoniker": "C:\\Sources\\embedded-system-2024\\PiDay07\\file01.c",
               "RelativeDocumentMoniker": "file01.c",
@@ -93,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "low_read.c",
               "DocumentMoniker": "C:\\Sources\\embedded-system-2024\\PiDay07\\low_read.c",
               "RelativeDocumentMoniker": "low_read.c",
@@ -101,12 +101,11 @@
               "RelativeToolTip": "low_read.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-20T06:12:52.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T06:12:52.394Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "low_open.c",
               "DocumentMoniker": "C:\\Sources\\embedded-system-2024\\PiDay07\\low_open.c",
               "RelativeDocumentMoniker": "low_open.c",
@@ -114,12 +113,11 @@
               "RelativeToolTip": "low_open.c",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-20T06:01:05.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T06:01:05.1Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "file02.c",
               "DocumentMoniker": "C:\\Sources\\embedded-system-2024\\PiDay07\\file02.c",
               "RelativeDocumentMoniker": "file02.c",
@@ -140,8 +138,7 @@
               "RelativeToolTip": "binarysearch.c",
               "ViewState": "AQIAABUAAAAAAAAAAAAAAAoAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-20T03:03:38.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T03:03:38.13Z"
             },
             {
               "$type": "Document",
@@ -153,8 +150,7 @@
               "RelativeToolTip": "search01.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-20T02:03:43.18Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T02:03:43.18Z"
             },
             {
               "$type": "Document",
@@ -166,8 +162,7 @@
               "RelativeToolTip": "sort01_01.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-20T00:21:02.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T00:21:02.12Z"
             },
             {
               "$type": "Document",
@@ -179,8 +174,7 @@
               "RelativeToolTip": "sort01.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-20T00:16:31.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T00:16:31.051Z"
             }
           ]
         }
