@@ -1,6 +1,7 @@
-/* 프로젝트01. 아이디와 비밀번호를 입력하여 맞으면 
-			   본인의 정보가 저장된 파일을 open 한다.
-			   파일명 : myinfo.txt */
+/*	File : project01.c
+	Created: 24-03-13
+	Author : 김동주
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

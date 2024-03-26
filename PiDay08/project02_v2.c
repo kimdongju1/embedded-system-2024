@@ -1,3 +1,7 @@
+/*	File : project02_v2.c
+    Created: 24-03-27
+    Author : 김동주
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -149,7 +153,7 @@ int main() {
             }
             break;
         case 3:
-            printf("삭제할 도서 제목: ");
+            printf("삭제할 도서 제목: ");+
             scanf("%s", title);
             deleteBook(&library, title);
             break;
